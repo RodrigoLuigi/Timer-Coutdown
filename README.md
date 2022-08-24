@@ -2,7 +2,7 @@
 
 ### 📌 Cronômetro CountDown
 
-🔗 Link -> <a hre="https://rodrigoluigi.github.io/Timer-Coutdown/" target="_blank">Focus Timer</a>
+🔗 Link -> <a href="https://rodrigoluigi.github.io/Timer-Coutdown/" target="_blank">Focus Timer</a>
 
 # <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
