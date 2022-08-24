@@ -2,6 +2,8 @@
 
 ### 📌 Cronômetro CountDown
 
+🔗 Link -> <a hre="https://rodrigoluigi.github.io/Timer-Coutdown/" target="_blank">Focus Timer</a>
+
 # <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 Projeto de um **timer ou cronômetro** para marcar um determinado período de tempo. Foi desenvolvido toda a estrutura do html, buscando sempre as melhores tags para se utilizar de forma semântica, estilização CSS, e funcionalidades através do JavaScript.
